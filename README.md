@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá ! Meu nome é Matheus Martins</p>
+<p align="left">Hi, my name is Matheus, welcome to my GitHub profile</p>
 
 ###
 
