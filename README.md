@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">Sobre mim:</h2>
-
-###
-
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas pela UAM e atualmente estou focando meus estudos para me tornar um desenvolvedor full-stack.</p>
-
-###
-
 <h2 align="left">Skills</h2>
 
 ###
